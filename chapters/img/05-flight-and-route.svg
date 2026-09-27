@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Judge the flight and the route</title>
+  <desc id="desc">Two overhead schematic panels. Left: a clear route to a controlled collection. Right: occupied space separates keeper and receiving ball; a defender deals with the delivery and the keeper prepares for the finish. No starting position or claim area is prescribed.</desc>
+  <rect width="900" height="500" rx="16" fill="#f5f7f4"/>
+  <g font-family="sans-serif" text-anchor="middle" fill="#213c32">
+    <text x="450" y="38" font-size="25" font-weight="bold">Can you meet this ball with control?</text>
+    <rect x="30" y="65" width="410" height="355" rx="12" fill="#e3eee4"/>
+    <rect x="460" y="65" width="410" height="355" rx="12" fill="#e3eee4"/>
+    <text x="235" y="100" font-size="21" font-weight="bold">Flight + clear route + control</text>
+    <text x="665" y="100" font-size="21" font-weight="bold">Route passes occupied space</text>
+    <text x="235" y="391" font-size="18">Claim and call “keeper”</text>
+    <text x="665" y="391" font-size="18">Prepare; defender deals with delivery</text>
+    <text x="450" y="452" font-size="18">Schematic: no prescribed starting spot or fixed claim area.</text>
+    <text x="450" y="482" font-size="17">Practice uses gentle, uncontested deliveries and standing catches.</text>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="4">
+    <path d="M70 150 H400 M180 150 V130 H290 V150"/>
+    <path d="M500 150 H830 M610 150 V130 H720 V150"/>
+  </g>
+  <g fill="none" stroke="#47695a" stroke-width="3" stroke-dasharray="6 6">
+    <path d="M350 330 Q350 250 300 225"/>
+    <path d="M790 330 Q790 250 740 225"/>
+  </g>
+  <g fill="none" stroke="#215d85" stroke-width="4">
+    <path d="M235 186 L285 218 M273 216 L285 218 L280 205"/>
+  </g>
+  <g fill="#215d85" stroke="#ffffff" stroke-width="2">
+    <circle cx="235" cy="180" r="15"/><circle cx="665" cy="180" r="15"/>
+  </g>
+  <g fill="#ffffff" stroke="#213c32" stroke-width="2">
+    <circle cx="300" cy="225" r="10"/><circle cx="740" cy="225" r="10"/>
+  </g>
+  <rect x="681" y="193" width="31" height="47" rx="6" fill="#ddb57c"/>
+  <g font-family="sans-serif" font-size="17" fill="#213c32">
+    <text x="188" y="212">Keeper</text><text x="315" y="225">Ball</text>
+    <text x="612" y="170">Keeper</text><text x="754" y="223">Ball</text>
+    <text x="650" y="267">Defender / traffic</text>
+    <text x="309" y="354">Delivery</text><text x="749" y="354">Delivery</text>
+  </g>
+</svg>

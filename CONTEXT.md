@@ -34,7 +34,7 @@ check.
 | 2 | Position before the shot | Where should I stand as the ball moves, and when should I be ready? | drafted |
 | 3 | Move, catch, recover | How do footwork and handling affect the save and the next action? | drafted |
 | 4 | Face the breakaway | When should I advance, hold my position or commit? | drafted |
-| 5 | Deal with crosses and corners | What can I claim, and what must the defenders cover? | planned |
+| 5 | Deal with crosses and corners | What can I claim, and what must the defenders cover? | drafted |
 | 6 | Organise the defence | What should I say, to whom, and when? | planned |
 | 7 | Start the next attack | When is a short pass useful, and when should I play longer? | planned |
 | 8 | Train for the next match | How do I choose a useful session with limited time and equipment? | planned |
@@ -70,6 +70,8 @@ that come from no source are the book's own and are labelled "in the book's expe
 | jb-diving | Jeff Benjamin, Diving | https://www.jbgoalkeeping.com/dive.html |
 | jb-catching | Jeff Benjamin, Basic catching (noted in sources/jb-diving.md) | https://www.jbgoalkeeping.com/ts_catch.html |
 | england-saving-actions | England Football Learning, Different saving actions for goalkeepers | https://learn.englandfootball.com/articles-and-resources/coaching/resources/2023/Different-saving-actions-for-goalkeepers |
+| fifa-high-balls | FIFA Training Centre, Learning to deal with high balls | https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/goalkeeping-fundamentals/learning-to-deal-with-high-balls.php |
+| england-out-of-possession | England Football Learning, Goalkeeping session: out of possession actions | https://learn.englandfootball.com/sessions/resources/2023/Goalkeeping-session-out-of-possession-actions |
 
 ## 6. The reader's answers (2026-09-27)
 
@@ -118,3 +120,9 @@ At the reader's request, `chapters/02-position-before-the-shot.md` now addresses
 At the reader's request, `chapters/03-move-catch-recover.md` adds controlled low saving and recovery. One working decision: check whether the ball is held or live after contact. One practice in solo, pair and squad forms, with standing collections available throughout; stationary-ball ground stages precede a slow roll, and standing ground work is a later progression after the landing is checked. No airborne extension, live smother, attacker contact or rapid second save is prescribed. One observation: the ball's destination after the first action, held / loose wide / loose central / unsure. Youth coaching texts supply a progression, not validation for this adult reader. Sources and limits are recorded in `notes/chapter-03.md`; status is drafted, not read or settled.
 
 Chapter 2's review incorrectly claimed sideways diving had never been clarified. The reader explicitly answered "diving sideways", already recorded in §8. The chapter now states that fact; the review note records the correction. Inline source credits remain removed and the closing source line remains in place.
+
+## 11. Chapter 5 drafted (2026-09-27)
+
+The reader requested chapter 5 next, advancing it ahead of chapters 6–8 and superseding the earlier crosses-last drafting order. This does not reclassify the reported flank-to-middle goals as airborne crosses. `chapters/05-deal-with-crosses-and-corners.md` addresses a controlled claim versus preparing for a finish while a defender deals with the delivery. Flight, route and available technique inform the book's beginner working rule; no fixed claim boundary or automatic posture is prescribed.
+
+One practice in solo, pair and squad forms uses gentle standing-reach deliveries, with an explicit unreachable option and a defender in the squad form. No jumping, contested catch, punch or heading is prescribed; vertical jumping and landing remain unassessed. One observation records who made the first contact: keeper / defender / opponent / untouched / unsure. FA and FIFA written material supports the principles; videos were not visually reviewed and the adult adaptations are untested. The drafting record is `notes/chapter-05.md`; status is drafted. Chapter 6 remains planned.
