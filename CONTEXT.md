@@ -35,7 +35,7 @@ check.
 | 3 | Move, catch, recover | How do footwork and handling affect the save and the next action? | drafted |
 | 4 | Face the breakaway | When should I advance, hold my position or commit? | drafted |
 | 5 | Deal with crosses and corners | What can I claim, and what must the defenders cover? | drafted |
-| 6 | Organise the defence | What should I say, to whom, and when? | planned |
+| 6 | Organise the defence | What should I say, to whom, and when? | drafted |
 | 7 | Start the next attack | When is a short pass useful, and when should I play longer? | planned |
 | 8 | Train for the next match | How do I choose a useful session with limited time and equipment? | planned |
 
@@ -72,6 +72,7 @@ that come from no source are the book's own and are labelled "in the book's expe
 | england-saving-actions | England Football Learning, Different saving actions for goalkeepers | https://learn.englandfootball.com/articles-and-resources/coaching/resources/2023/Different-saving-actions-for-goalkeepers |
 | fifa-high-balls | FIFA Training Centre, Learning to deal with high balls | https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/goalkeeping-fundamentals/learning-to-deal-with-high-balls.php |
 | england-out-of-possession | England Football Learning, Goalkeeping session: out of possession actions | https://learn.englandfootball.com/sessions/resources/2023/Goalkeeping-session-out-of-possession-actions |
+| fifa-goal-or-space | FIFA Training Centre, Tim Dittmer: Defending the goal or defending the space | https://www.fifatrainingcentre.com/en/practice/elite-sessions/goalkeeper/defending_the_goal_or_the_space.php |
 
 ## 6. The reader's answers (2026-09-27)
 
@@ -126,3 +127,7 @@ Chapter 2's review incorrectly claimed sideways diving had never been clarified.
 The reader requested chapter 5 next, advancing it ahead of chapters 6–8 and superseding the earlier crosses-last drafting order. This does not reclassify the reported flank-to-middle goals as airborne crosses. `chapters/05-deal-with-crosses-and-corners.md` addresses a controlled claim versus preparing for a finish while a defender deals with the delivery. Flight, route and available technique inform the book's beginner working rule; no fixed claim boundary or automatic posture is prescribed.
 
 One practice in solo, pair and squad forms uses gentle standing-reach deliveries, with an explicit unreachable option and a defender in the squad form. No jumping, contested catch, punch or heading is prescribed; vertical jumping and landing remain unassessed. One observation records who made the first contact: keeper / defender / opponent / untouched / unsure. FA and FIFA written material supports the principles; videos were not visually reviewed and the adult adaptations are untested. The drafting record is `notes/chapter-05.md`; status is drafted. Chapter 6 remains planned.
+
+## 12. Chapter 6 drafted (2026-09-27)
+
+Following the reader's steer, `chapters/06-organise-the-defence.md` addresses information to a named defender before a central pass. The book's working rule uses a visible threat and an agreed action; it does not install the keeper as tactical leader or diagnose the reported goals as communication failures. One practice in solo, pair and squad forms adds shared meaning, hearing feedback and then a slow passing deadline; no shots or contact. One match observation records before / after / no call / unsure relative to the pass. Early does not prove heard or effective, and the result does not establish timing. FA and FIFA text supports the principles, not the original script or practice dose. Drafting record: `notes/chapter-06.md`; status drafted. Chapters 7 and 8 remain planned.

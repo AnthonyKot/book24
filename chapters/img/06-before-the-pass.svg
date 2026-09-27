@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Useful information before the pass</title>
+  <desc id="desc">See the receiver while the ball is wide; send a specific message to the agreed defender; continue the goalkeeper's positioning as the pass travels. The call creates an option, not a guaranteed clearance.</desc>
+  <rect width="900" height="360" rx="16" fill="#f5f7f4"/>
+  <g font-family="sans-serif" fill="#213c32" text-anchor="middle">
+    <text x="450" y="45" font-size="25" font-weight="bold">Who can use this information now?</text>
+    <rect x="30" y="80" width="250" height="140" rx="12" fill="#dce9df"/>
+    <rect x="325" y="80" width="250" height="140" rx="12" fill="#dce9df"/>
+    <rect x="620" y="80" width="250" height="140" rx="12" fill="#dce9df"/>
+    <text x="155" y="118" font-size="21" font-weight="bold">See</text>
+    <text x="155" y="155" font-size="18">Ball still wide</text>
+    <text x="155" y="185" font-size="18">Central receiver visible</text>
+    <text x="450" y="118" font-size="21" font-weight="bold">Tell</text>
+    <text x="450" y="155" font-size="18">Name + visible threat</text>
+    <text x="450" y="185" font-size="18">+ agreed action</text>
+    <text x="745" y="118" font-size="21" font-weight="bold">Continue</text>
+    <text x="745" y="155" font-size="18">Defender can respond</text>
+    <text x="745" y="185" font-size="18">Keeper still positions</text>
+    <text x="450" y="275" font-size="21">“Sam, check the middle runner.”</text>
+    <text x="450" y="311" font-size="17">Example wording: agree the meaning and responsibility with your teammate.</text>
+    <text x="450" y="340" font-size="17">An early call gives an option; it does not guarantee a clearance.</text>
+  </g>
+  <g fill="none" stroke="#426858" stroke-width="3">
+    <path d="M280 150 H312 M304 143 L312 150 L304 157"/>
+    <path d="M575 150 H607 M599 143 L607 150 L599 157"/>
+  </g>
+</svg>
