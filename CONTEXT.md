@@ -62,9 +62,18 @@ that come from no source are the book's own and are labelled "in the book's expe
 | fifa-in-out | FIFA Training Centre, Goalkeeper: in and out of possession | https://www.fifatrainingcentre.com/en/practice/elite-sessions/goalkeeper/in_and_out_of_possession.php |
 | fifa-penalty-area | FIFA Training Centre, Goalkeeping fundamentals: defending the penalty area | https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/sessions/goalkeeping-fundamentals-defending-the-penalty-area.php |
 
-## 6. Open questions (answers go here, dated)
+## 6. The reader's answers (2026-09-27)
 
-1. Format: eleven-a-side with full-size goals, or smaller?
-2. Goalkeeping experience and age range?
-3. Training frequency, facilities, help; injuries or movement limits?
-4. From the heavy defeat, which situations are remembered most: distant shots, close finishes, one-on-ones, crosses, other?
+1. **Format:** eleven-a-side, full-size goals.
+2. **Experience and age:** new to goal, 35–45. The team averages about 45; the opposition in the heavy defeat was about 30–35 and the side was outplayed throughout.
+3. **Training:** one squad session a week; no goalkeeper coach; no injuries or movement limits stated.
+4. **Remembered from the defeat:** one-on-ones and balls in behind; close finishes and rebounds.
+
+Consequences, decided the same day:
+
+| Decision | Why |
+|---|---|
+| Chapters 4 (breakaway) and 3 (move, catch, recover, with rebounds) carry the most weight; chapter 5 (crosses) is written last | the defeat's situations |
+| Chapter 1's sorting has a fourth column beside the keeper, the defence and luck: the gap, goals that a faster, younger side scores against any keeper on any veterans' defence | the reader was outplayed; the book must not pretend every goal was a decision |
+| Practices assume a full-size goal at one weekly session, and a wall or open ground otherwise; the pair form assumes a teammate who can serve, not cross | no keeper coach; the squad form has to fit inside the team's own session |
+| The keeper is new, so every decision gets its cue stated in things visible from the goal: the striker's head, the ball leaving a foot, the last defender's shoulder | a newcomer has no repertoire to draw on |
