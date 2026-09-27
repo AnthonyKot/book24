@@ -1,1 +1,3 @@
 One file per match, `YYYY-MM-DD.md`. Score, opposition, then one line per goal conceded: minute, situation (distant shot / close finish / one-on-one / cross or corner / rebound / free attacker / other), what you decided, what you would decide now. Chapters ask for one extra observation each; add it as a line.
+
+Use what you remember; a complete goal reconstruction is not required before training. [Chapter 8](../chapters/08-train-for-the-next-match.md) selects one chapter's observation for the next match, rather than requiring all seven. Include relevant saves and other successful actions. Use the chosen chapter's unsure option for missing memory, or “no occasion for the chosen focus” if the situation did not occur. A blank or no occasion is not success.

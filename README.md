@@ -9,5 +9,8 @@ A personal book on becoming a better goalkeeper in an amateur veterans' side. On
 5. [Deal with crosses and corners](chapters/05-deal-with-crosses-and-corners.md) — what can I claim, and what must the defenders cover?
 6. [Organise the defence](chapters/06-organise-the-defence.md) — what should I say, to whom, and when?
 7. [Start the next attack](chapters/07-start-the-next-attack.md) — when is a short pass useful, and when should I play longer?
+8. [Train for the next match](chapters/08-train-for-the-next-match.md) — how do I choose one useful practice with the time and teammates available?
+
+For the next session, use [one focus card](notes/sessions/next-match-card.md) with chapter 8. All eight chapters are drafted; match and practice notes will guide revision.
 
 The plan, the chapter register and the decision record are in [CONTEXT.md](CONTEXT.md). Source notes are in [sources/](sources/); match notes in [matches/](matches/). Diagrams and schemas are drawn by the book (SVG in `chapters/img/`), not photographs. Read on the site: https://anthonykot.github.io/book24/

@@ -37,7 +37,7 @@ check.
 | 5 | Deal with crosses and corners | What can I claim, and what must the defenders cover? | drafted |
 | 6 | Organise the defence | What should I say, to whom, and when? | drafted |
 | 7 | Start the next attack | When is a short pass useful, and when should I play longer? | drafted |
-| 8 | Train for the next match | How do I choose a useful session with limited time and equipment? | planned |
+| 8 | Train for the next match | How do I choose a useful session with limited time and equipment? | drafted |
 
 Status: planned → drafted → read (the author has used it in a match or session and left a note) → settled.
 
@@ -76,6 +76,8 @@ that come from no source are the book's own and are labelled "in the book's expe
 | fifa-build-up | FIFA Training Centre, Goalkeepers' build-up: supporting, receiving and passing (session plan) | https://www.fifatrainingcentre.com/media/native/test/FIFA_Session_Plan_Santangelo.pdf |
 | fifa-long-distribution | FIFA Training Centre, Distribution — opportunities from a long goal kick | https://www.fifatrainingcentre.com/en/game/individual-qualities/goalkeeping/distribution-opportunities-from-a-long-goal-kick.php |
 | england-end-lines | England Football Learning, Goalkeeping session: end lines | https://learn.englandfootball.com/sessions/resources/2023/Goalkeeping-session-end-lines |
+| england-practice-design | England Football Learning, How to design football practices | https://learn.englandfootball.com/articles-and-resources/coaching/resources/2024/How-to-design-football-practices |
+| england-session-management | England Football Learning, How to manage a training session | https://learn.englandfootball.com/articles-and-resources/coaching/resources/2026/How-to-manage-a-training-session |
 
 ## 6. The reader's answers (2026-09-27)
 
@@ -138,3 +140,7 @@ Following the reader's steer, `chapters/06-organise-the-defence.md` addresses in
 ## 13. Chapter 7 drafted (2026-09-27)
 
 At the reader's request, `chapters/07-start-the-next-attack.md` addresses whether an intended recipient can use the pass, considering route, pressure and execution. No distribution error, kicking range or team policy is assumed. Short and longer outlets remain choices within the team's approach; longer need not mean emergency clearance. One practice in solo, pair and squad forms progresses from targets to actual reception and then a walking blocker with two outlets. Modest ground-pass distances model space beyond first pressure, not full-pitch kicking; held-ball delivery is not prescribed from this feet-only rehearsal. One observation records usable / immediately contested / not received / unsure at first reception, excluding untargeted emergency clearances and later losses. FA and FIFA written sources support the principles; adult adaptations are untested. Drafting record: `notes/chapter-07.md`; status drafted. Chapter 8 remains planned.
+
+## 14. Chapter 8 drafted (2026-09-27)
+
+Following the reader's steer, `chapters/08-train-for-the-next-match.md` completes the first draft. One decision selects a relevant visible cue and a feasible existing practice, retaining the reported breakaway/flank-to-middle priorities when newer evidence is absent. One practice is the plan–run–review cycle for one block, in solo/pair/squad forms; chapter 2 supplies a concrete example while other choices retain their own setup and dose. The six-practice map is navigation, not a circuit. One observation reuses the chosen chapter's match label rather than adding a technical checklist. Unsure and no occasion remain distinct from improvement. FA practice-design and session-management text supports the principles; original adaptations are untested. The card is `notes/sessions/next-match-card.md`; drafting record `notes/chapter-08.md`. All eight chapters are drafted, not marked read or settled through source review or publication.

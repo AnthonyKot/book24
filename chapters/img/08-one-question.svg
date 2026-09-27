@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="title desc">
+  <title id="title">One question for the next session</title>
+  <desc id="desc">Choose a match question, select the feasible practice form, rehearse one block within the chapter's limits, and carry its existing observation into the next match. Use unsure or no occasion honestly; the next plan starts from that evidence.</desc>
+  <rect width="900" height="380" rx="16" fill="#f5f7f4"/>
+  <g font-family="sans-serif" text-anchor="middle" fill="#213c32">
+    <text x="450" y="42" font-size="25" font-weight="bold">One question → one block → one observation</text>
+    <rect x="35" y="85" width="240" height="130" rx="12" fill="#dce9df"/>
+    <rect x="330" y="85" width="240" height="130" rx="12" fill="#dce9df"/>
+    <rect x="625" y="85" width="240" height="130" rx="12" fill="#dce9df"/>
+    <text x="155" y="120" font-size="21" font-weight="bold">Choose</text>
+    <text x="155" y="158" font-size="18">Match question + cue</text>
+    <text x="155" y="188" font-size="18">Available practice form</text>
+    <text x="450" y="120" font-size="21" font-weight="bold">Practise</text>
+    <text x="450" y="158" font-size="18">One existing block</text>
+    <text x="450" y="188" font-size="18">Keep its limits</text>
+    <text x="745" y="120" font-size="21" font-weight="bold">Observe</text>
+    <text x="745" y="158" font-size="18">Use the selected label</text>
+    <text x="745" y="188" font-size="18">Unsure / no occasion</text>
+    <text x="450" y="315" font-size="18">Use what you observed to choose the next block.</text>
+    <text x="450" y="350" font-size="17">No new checklist, compulsory progression or conclusion from the score.</text>
+  </g>
+  <g fill="none" stroke="#426858" stroke-width="3">
+    <path d="M275 150 H315 M307 143 L315 150 L307 157"/>
+    <path d="M570 150 H610 M602 143 L610 150 L602 157"/>
+    <path d="M745 215 V265 H155 V230 M148 238 L155 230 L162 238"/>
+  </g>
+</svg>
