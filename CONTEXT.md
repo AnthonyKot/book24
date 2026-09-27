@@ -36,7 +36,7 @@ check.
 | 4 | Face the breakaway | When should I advance, hold my position or commit? | drafted |
 | 5 | Deal with crosses and corners | What can I claim, and what must the defenders cover? | drafted |
 | 6 | Organise the defence | What should I say, to whom, and when? | drafted |
-| 7 | Start the next attack | When is a short pass useful, and when should I play longer? | planned |
+| 7 | Start the next attack | When is a short pass useful, and when should I play longer? | drafted |
 | 8 | Train for the next match | How do I choose a useful session with limited time and equipment? | planned |
 
 Status: planned → drafted → read (the author has used it in a match or session and left a note) → settled.
@@ -73,6 +73,9 @@ that come from no source are the book's own and are labelled "in the book's expe
 | fifa-high-balls | FIFA Training Centre, Learning to deal with high balls | https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/goalkeeping-fundamentals/learning-to-deal-with-high-balls.php |
 | england-out-of-possession | England Football Learning, Goalkeeping session: out of possession actions | https://learn.englandfootball.com/sessions/resources/2023/Goalkeeping-session-out-of-possession-actions |
 | fifa-goal-or-space | FIFA Training Centre, Tim Dittmer: Defending the goal or defending the space | https://www.fifatrainingcentre.com/en/practice/elite-sessions/goalkeeper/defending_the_goal_or_the_space.php |
+| fifa-build-up | FIFA Training Centre, Goalkeepers' build-up: supporting, receiving and passing (session plan) | https://www.fifatrainingcentre.com/media/native/test/FIFA_Session_Plan_Santangelo.pdf |
+| fifa-long-distribution | FIFA Training Centre, Distribution — opportunities from a long goal kick | https://www.fifatrainingcentre.com/en/game/individual-qualities/goalkeeping/distribution-opportunities-from-a-long-goal-kick.php |
+| england-end-lines | England Football Learning, Goalkeeping session: end lines | https://learn.englandfootball.com/sessions/resources/2023/Goalkeeping-session-end-lines |
 
 ## 6. The reader's answers (2026-09-27)
 
@@ -131,3 +134,7 @@ One practice in solo, pair and squad forms uses gentle standing-reach deliveries
 ## 12. Chapter 6 drafted (2026-09-27)
 
 Following the reader's steer, `chapters/06-organise-the-defence.md` addresses information to a named defender before a central pass. The book's working rule uses a visible threat and an agreed action; it does not install the keeper as tactical leader or diagnose the reported goals as communication failures. One practice in solo, pair and squad forms adds shared meaning, hearing feedback and then a slow passing deadline; no shots or contact. One match observation records before / after / no call / unsure relative to the pass. Early does not prove heard or effective, and the result does not establish timing. FA and FIFA text supports the principles, not the original script or practice dose. Drafting record: `notes/chapter-06.md`; status drafted. Chapters 7 and 8 remain planned.
+
+## 13. Chapter 7 drafted (2026-09-27)
+
+At the reader's request, `chapters/07-start-the-next-attack.md` addresses whether an intended recipient can use the pass, considering route, pressure and execution. No distribution error, kicking range or team policy is assumed. Short and longer outlets remain choices within the team's approach; longer need not mean emergency clearance. One practice in solo, pair and squad forms progresses from targets to actual reception and then a walking blocker with two outlets. Modest ground-pass distances model space beyond first pressure, not full-pitch kicking; held-ball delivery is not prescribed from this feet-only rehearsal. One observation records usable / immediately contested / not received / unsure at first reception, excluding untargeted emergency clearances and later losses. FA and FIFA written sources support the principles; adult adaptations are untested. Drafting record: `notes/chapter-07.md`; status drafted. Chapter 8 remains planned.
