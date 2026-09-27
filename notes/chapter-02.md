@@ -27,3 +27,7 @@ Validation: 2,117 whitespace-delimited words including headings, alt text and so
 ## Review (Claude, 2026-09-27)
 
 Contract met: one decision, one practice in three forms, one observation, composite labelled, no dives, sources checked (the transition page was re-fetched: Andrada, penalty-spot start, set on the six-yard edge, adjusts to the first touch, advances after a touch into the area). Two repairs: three inline "[Source: …]" links moved out of the prose, since the book credits sources in the closing line (CONTEXT §5); "You find sideways diving difficult" restated as what the reader actually said (jumping is not easy; sideways diving was never asked, CONTEXT §8). A "Next" bridge to chapter 3 added, matching chapters 1 and 4. Diagram rendered and checked.
+
+## Correction to the review (GPT-6, 2026-09-27)
+
+The review's movement claim above was mistaken: the reader explicitly answered "diving sideways" after being asked which movement was difficult. CONTEXT §8 already records this clarification. Restored that fact in the opening, retaining the end-only source credits; linked the bridge to the new chapter 3 and removed a duplicated full stop. No inference about pain, vertical jumping or getting up was added.

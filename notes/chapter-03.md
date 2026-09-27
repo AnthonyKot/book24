@@ -1,0 +1,19 @@
+# Chapter 3 — drafting record, 2026-09-27
+
+Drafted by GPT-6 at the reader's request. Reader's explicit clarification is sideways diving, recorded in CONTEXT §8. No diagnosis of why, pain assessment or assumption about rising speed. The opening is a labelled composite; no match rebound is invented as testimony.
+
+One decision: held or live after contact. One practice: contact, check control, reset, in solo / pair / squad forms. Standing collection is available throughout. Ground finish rehearsal precedes controlled stationary-ball lowering, then a slow roll at the same starting height. Standing ground work is later, after the landing is checked. Comfortable kneeling is conditional; a keeper who cannot use it is not sent straight to a standing fall. No aerial extension, live smother, challenge or second shot.
+
+One observation: held / loose wide / loose central / unsure after the first action. Destination is not a catchability verdict. Rebounds remain secondary to the reader's two priorities; they connect control to the next action without adding a separate training session.
+
+Evidence: Keeperstop's youth progression; Jeff Benjamin's written collapse-dive and landing description; FIFA defending-goal session's possession-before-recovery order; FIFA penalty-area angle change; England's written parry explanation. Source text read live, no claim that the videos were watched. FIFA's newer “Learning to dive” text was also inspected: its snap-down and inside-leg removal actions were not adopted as a substitute for a beginner collapse-save progression. Source notes distinguish text evidence from adult adaptations.
+
+Limits: this is an untested adult adaptation of coaching descriptions, not a coach's assessment or demonstrated beginner competence. Practice doses and gates are the book's suggestions. A peer notices outcomes, but uncertain landing needs informed demonstration/feedback before moving-ball work. No deadline for advancing stages.
+
+Added an original SVG showing contact and the held/live check, rather than unverified anatomy. Updated navigation and chapter status. Restored the reader's explicit sideways-diving clarification in chapter 2 and recorded the error in its review note, keeping source credits at the end.
+
+Validation: 2,329 whitespace-delimited words including headings, diagram alt text and source line, within the chapter band. Local README/chapter links resolve, all SVGs parse as XML, the new SVG was rendered with ImageMagick and inspected, and `git diff --check` passed. No automated book build exists; no practice was performed with a player. Changes remain local, uncommitted and unpushed.
+
+## Review (Claude, 2026-09-27)
+
+Contract met: one decision (held or live after contact), one practice in three forms with a standing alternative at every stage, one observation with "unsure", composite labelled, no jumps or airborne dives, ends on the observation. Sources re-fetched and confirmed: Jeff Benjamin's diving page (land on hip and shoulder, square to the ball, hands first, no stomach or back landing, no pushing up with the hands); Keeperstop's six-stage progression (kneeling with a stationary ball → kneeling with a serve → standing with a stationary ball → standing with a serve → faster and higher → competitive), which the chapter uses through stage four only; England Football Learning's saving actions (parry as pushing an uncatchable ball away from danger, out to the side rather than back into the box). Caveat recorded, not a change: Keeperstop and jbgoalkeeping are a retailer's blog and a coach's personal site, weaker than the FA and FIFA material the rest of the book stands on; the chapter uses them for a technique description that the reader should have checked by someone who can watch the landing, and says so. Diagram rendered and checked. No repairs. The chapter 2 review correction stands: the reader did clarify sideways diving, and the earlier repair was mine and wrong.

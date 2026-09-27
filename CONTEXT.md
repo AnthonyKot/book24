@@ -32,7 +32,7 @@ check.
 |---|---|---|---|
 | 1 | Review the match | Which situations should I learn from, and what information am I missing? | drafted |
 | 2 | Position before the shot | Where should I stand as the ball moves, and when should I be ready? | drafted |
-| 3 | Move, catch, recover | How do footwork and handling affect the save and the next action? | planned |
+| 3 | Move, catch, recover | How do footwork and handling affect the save and the next action? | drafted |
 | 4 | Face the breakaway | When should I advance, hold my position or commit? | drafted |
 | 5 | Deal with crosses and corners | What can I claim, and what must the defenders cover? | planned |
 | 6 | Organise the defence | What should I say, to whom, and when? | planned |
@@ -66,6 +66,10 @@ that come from no source are the book's own and are labelled "in the book's expe
 | fifa-penalty-area | FIFA Training Centre, Goalkeeping fundamentals: defending the penalty area | https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/sessions/goalkeeping-fundamentals-defending-the-penalty-area.php |
 | fifa-defending-goal | FIFA Training Centre, Defending the goal | https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/sessions/goalkeeping-fundamentals-defending-the-goal.php |
 | fifa-transition-positioning | FIFA Training Centre, Goalkeeper positioning in transition from attack to defence | https://www.fifatrainingcentre.com/en/game/individual-qualities/goalkeeping/goalkeeper-positioning-in-transition-from-attack-to-defence.php |
+| keeperstop-low-dive | Keeperstop, At Home Youth Diving for Goalkeepers | https://www.keeperstop.com/blogs/goalkeeper_drills-diving_extensions_reaction_saves/goalkeeper_drills-diving_extensions_reaction_saves-at_home_youth_diving_for_goalkeepers |
+| jb-diving | Jeff Benjamin, Diving | https://www.jbgoalkeeping.com/dive.html |
+| jb-catching | Jeff Benjamin, Basic catching (noted in sources/jb-diving.md) | https://www.jbgoalkeeping.com/ts_catch.html |
+| england-saving-actions | England Football Learning, Different saving actions for goalkeepers | https://learn.englandfootball.com/articles-and-resources/coaching/resources/2023/Different-saving-actions-for-goalkeepers |
 
 ## 6. The reader's answers (2026-09-27)
 
@@ -108,3 +112,9 @@ Clarification: the difficulty is **diving sideways**, not a stated limitation on
 ## 9. Chapter 2 drafted (2026-09-27)
 
 At the reader's request, `chapters/02-position-before-the-shot.md` now addresses the reported flank-to-middle finish. One working decision: adjust as the pass travels and prepare for the receiver's possible finish, adjusting again if they carry it. One practice in solo, pair and squad forms; the pair's inability to reproduce a separate passer and receiver is stated. One observation: prepared / travelling / unsure at shooting contact. No diving required, no fixed positioning distance, and no diagnosis of the unobserved goals. An original SVG shows the change in shooting angle. Research and drafting decisions are in `notes/chapter-02.md`. Status is drafted, not read or settled; chapter 3 is next.
+
+## 10. Chapter 3 drafted and movement correction (2026-09-27)
+
+At the reader's request, `chapters/03-move-catch-recover.md` adds controlled low saving and recovery. One working decision: check whether the ball is held or live after contact. One practice in solo, pair and squad forms, with standing collections available throughout; stationary-ball ground stages precede a slow roll, and standing ground work is a later progression after the landing is checked. No airborne extension, live smother, attacker contact or rapid second save is prescribed. One observation: the ball's destination after the first action, held / loose wide / loose central / unsure. Youth coaching texts supply a progression, not validation for this adult reader. Sources and limits are recorded in `notes/chapter-03.md`; status is drafted, not read or settled.
+
+Chapter 2's review incorrectly claimed sideways diving had never been clarified. The reader explicitly answered "diving sideways", already recorded in §8. The chapter now states that fact; the review note records the correction. Inline source credits remain removed and the closing source line remains in place.

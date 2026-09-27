@@ -4,7 +4,7 @@
 
 ## The situation
 
-A composite example of the pattern you described, not a reconstruction of a particular goal: the ball is on your right, an attacker passes it into the middle, and another attacker shoots. You were protecting the goal against the player on the flank. Now the finish comes from somewhere else. Perhaps you stayed in the first position; perhaps you moved but were still travelling when the shot came. Neither was recorded, so neither is a diagnosis. In [your account of two matches](../matches/two-match-patterns.md), flank, pass into the middle, accurate finish made up roughly three goals in ten, an estimate rather than a count. This chapter asks what happens between the pass and the shot. You have said that jumping is not easy for you; whether a sideways dive is, nobody has asked yet. The first question is whether your position and balance gave you a chance to respond before any dive was needed.
+A composite example of the pattern you described, not a reconstruction of a particular goal: the ball is on your right, an attacker passes it into the middle, and another attacker shoots. You were protecting the goal against the player on the flank. Now the finish comes from somewhere else. Perhaps you stayed in the first position; perhaps you moved but were still travelling when the shot came. Neither was recorded, so neither is a diagnosis. In [your account of two matches](../matches/two-match-patterns.md), flank, pass into the middle, accurate finish made up roughly three goals in ten, an estimate rather than a count. This chapter asks what happens between the pass and the shot. You clarified that sideways diving is difficult for you. The first question is whether your position and balance gave you a chance to respond before any dive was needed.
 
 ## What you can change and what you cannot
 
@@ -18,7 +18,7 @@ The working distinction is between **being set** and being stuck. Here, set mean
 
 **The working cue is the pass leaving the wide player's foot: update your position while it travels, and prepare for a possible shot as it reaches the receiver.** If the receiver carries the ball instead, adjust again. This is the book's beginner working rule, not a guarantee that you will reach an ideal position before every shot.
 
-FIFA's transition analysis illustrates a keeper repositioning as a pass crosses the attack, preparing for a first-time finish, and then adjusting again to a receiving touch. The useful sequence is changing position, preparing, and responding; the professional's speed and starting depth are not prescriptions for you..
+FIFA's transition analysis illustrates a keeper repositioning as a pass crosses the attack, preparing for a first-time finish, and then adjusting again to a receiving touch. The useful sequence is changing position, preparing, and responding; the professional's speed and starting depth are not prescriptions for you.
 
 ### The position belongs to the ball's new location
 
@@ -84,6 +84,6 @@ Repeated travelling entries give the practice a question to investigate: did you
 
 ## Next
 
-Chapter 3 takes the moment after this one: the save itself, and getting back up, through a progression that starts on the ground and never asks for a jump.
+[Chapter 3](03-move-catch-recover.md) takes the moment after this one: controlling the ball through the save and recovery, with a gradual introduction to low sideways saves and a standing alternative.
 
 *Sources: FIFA Training Centre, [Defending the penalty area](https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/sessions/goalkeeping-fundamentals-defending-the-penalty-area.php), exercise 1; [Defending the goal](https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/sessions/goalkeeping-fundamentals-defending-the-goal.php), exercise 3; and [Goalkeeper positioning in transition from attack to defence](https://www.fifatrainingcentre.com/en/game/individual-qualities/goalkeeping/goalkeeper-positioning-in-transition-from-attack-to-defence.php). The composite example, beginner working cue, diagram, practice adaptations and observation categories are the book's own.*
