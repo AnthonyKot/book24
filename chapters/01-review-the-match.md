@@ -20,6 +20,8 @@ Every goal conceded belongs, mostly, in one of four columns. The sorting is the 
 
 The point of the columns is not blame. It is that only the first one produces a training session, and only the first two produce something to say at the next match. A ten–nil in which seven goals sit in the gap and two with the defence contains one goal to learn from, and finding that one is the review's job.
 
+![Schema: a goal goes in; the question is what you saw last and whether you were set; the goal then goes into one of four columns, yours, the defence's, the gap or luck, with one word for why.](img/01-four-columns.svg)
+
 ## The decision: which goals are mine
 
 In the match itself, the decision this chapter asks you to recognise happens in the seconds after each goal, and it is small: **as you fetch the ball, say to yourself which column the goal goes in, and one word for why.** "Mine, late." "Defence, runner." "Gap." Nothing else; the next kick-off is coming. It costs nothing and it is the only reliable record you will have, because memory after the match keeps the feeling and drops the facts. In the book's experience the goals you remember at midnight are the ones that felt worst, which are rarely the ones that were yours.

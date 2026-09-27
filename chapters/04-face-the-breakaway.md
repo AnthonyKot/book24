@@ -30,6 +30,8 @@ Between the two, while the ball is his, the FIFA session in the sources gives a 
 
 One thing this chapter does not do is replace your slide with a hands-first dive. A dive is a commitment too, with a landing, and the landing is chapter 3's subject. Until you have that, the commitment in this chapter is made standing, at the pace you can, and its most common form is not a dive at all: it is a step and a bend to a ball that has run loose, taken into the chest. The cue is the same at any speed. The speed is yours, and it is the speed at which you can still stop.
 
+![Schema of the whole decision: position before it happens; stay on your feet and keep closing as he comes; at each touch ask which way the ball went; if his, make him do something and do not slide or slow into a shape; if loose, take it with the hands at the pace you can, with a definite choice.](img/04-decision-flow.svg)
+
 ## Where to stand before it happens
 
 ![Half a pitch. The defence's line, a striker beside it, a ball about to be played into the shaded space behind the defence; two keeper positions marked, A on the line and B near the penalty spot.](img/04-position-tradeoff.svg)
