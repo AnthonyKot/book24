@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="title">A pass changes the shooting angle</title>
+  <desc id="desc">Two overhead panels show a goal defended against a wide ball, then a ball received centrally. The keeper adjusts during the pass and prepares for the possible shot. All positions are schematic.</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#333"/></marker></defs>
+  <rect width="800" height="400" fill="white"/>
+  <g fill="#f5f7f5" stroke="#555"><rect x="15" y="15" width="375" height="310" rx="6"/><rect x="410" y="15" width="375" height="310" rx="6"/></g>
+  <g fill="#111" font-size="18" font-weight="bold"><text x="32" y="45">1. The ball is wide</text><text x="427" y="45">2. The pass changes the threat</text></g>
+  <g fill="none" stroke="#444" stroke-width="3"><path d="M152 95 V75 H252 V95 M547 95 V75 H647 V95"/></g>
+  <g stroke="#999" stroke-dasharray="5 5" fill="none"><line x1="332" y1="240" x2="152" y2="95"/><line x1="332" y1="240" x2="252" y2="95"/><line x1="587" y1="240" x2="547" y2="95"/><line x1="587" y1="240" x2="647" y2="95"/></g>
+  <g fill="#111" font-size="13"><text x="166" y="66">goal</text><text x="561" y="66">goal</text></g>
+  <g fill="#205e3b" stroke="white" stroke-width="2"><circle cx="235" cy="128" r="10"/><circle cx="590" cy="128" r="10"/></g>
+  <circle cx="630" cy="128" r="10" fill="none" stroke="#205e3b" stroke-width="2" stroke-dasharray="3 3"/>
+  <line x1="617" y1="128" x2="604" y2="128" stroke="#333" stroke-width="2"/><path d="M599 128 L605 124 L605 132 Z" fill="#333"/>
+  <g fill="#111" font-size="13"><text x="210" y="157">keeper</text><text x="552" y="160">keeper adjusts</text></g>
+  <g fill="white" stroke="#111" stroke-width="2"><circle cx="332" cy="240" r="7"/><circle cx="587" cy="240" r="7"/></g>
+  <circle cx="727" cy="240" r="7" fill="none" stroke="#777" stroke-width="2" stroke-dasharray="3 3"/>
+  <line x1="715" y1="240" x2="601" y2="240" stroke="#333" stroke-width="2"/><path d="M596 240 L604 235 L604 245 Z" fill="#333"/>
+  <g fill="#111" font-size="13"><text x="279" y="268">wide ball</text><text x="667" y="267">wide origin</text><text x="534" y="267">receiver</text><text x="634" y="227">pass</text></g>
+  <g fill="#111" font-size="14"><text x="32" y="299">Protect against the current shooting angle.</text><text x="427" y="299">Move during the pass; prepare for contact.</text></g>
+  <g fill="#444" font-size="13"><text x="20" y="352">Dashed lines show the views from the two ball positions towards the posts.</text><text x="20" y="375">Schematic only: keeper depth and movement are not prescribed distances.</text></g>
+</svg>

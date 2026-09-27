@@ -30,10 +30,10 @@ check.
 
 | # | Chapter | Practical question | Status |
 |---|---|---|---|
-| 1 | Review the match | Which situations should I learn from, and what information am I missing? | planned |
-| 2 | Position before the shot | Where should I stand as the ball moves, and when should I be ready? | planned |
+| 1 | Review the match | Which situations should I learn from, and what information am I missing? | drafted |
+| 2 | Position before the shot | Where should I stand as the ball moves, and when should I be ready? | drafted |
 | 3 | Move, catch, recover | How do footwork and handling affect the save and the next action? | planned |
-| 4 | Face the breakaway | When should I advance, hold my position or commit? | planned |
+| 4 | Face the breakaway | When should I advance, hold my position or commit? | drafted |
 | 5 | Deal with crosses and corners | What can I claim, and what must the defenders cover? | planned |
 | 6 | Organise the defence | What should I say, to whom, and when? | planned |
 | 7 | Start the next attack | When is a short pass useful, and when should I play longer? | planned |
@@ -64,6 +64,8 @@ that come from no source are the book's own and are labelled "in the book's expe
 | fa-space-behind | The FA, Goalkeeping: defending the space in behind | https://www.thefa.com/bootroom/resources/coaching/goalkeeping-defending-the-space-in-behind |
 | fifa-in-out | FIFA Training Centre, Goalkeeper: in and out of possession | https://www.fifatrainingcentre.com/en/practice/elite-sessions/goalkeeper/in_and_out_of_possession.php |
 | fifa-penalty-area | FIFA Training Centre, Goalkeeping fundamentals: defending the penalty area | https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/sessions/goalkeeping-fundamentals-defending-the-penalty-area.php |
+| fifa-defending-goal | FIFA Training Centre, Defending the goal | https://www.fifatrainingcentre.com/en/environment/fifa-goalkeeper-training/sessions/goalkeeping-fundamentals-defending-the-goal.php |
+| fifa-transition-positioning | FIFA Training Centre, Goalkeeper positioning in transition from attack to defence | https://www.fifatrainingcentre.com/en/game/individual-qualities/goalkeeping/goalkeeper-positioning-in-transition-from-attack-to-defence.php |
 
 ## 6. The reader's answers (2026-09-27)
 
@@ -102,3 +104,7 @@ The reader reports height 180 cm, weight 105 kg, and that jumping is not easy. T
 Practices must not assume repeated jumps, explosive dives or rapid recovery from the ground. Begin with controlled footwork, positioning and standing collections, and provide a version without jumping or diving. Grounded technique and progression must reflect the reader's actual comfort and ability, not height or weight alone. Clarify whether difficulty means jumping upward, diving sideways, getting up again, or pain before prescribing those actions. Chapter 5's aerial work remains later and must not presume every cross should be claimed.
 
 Clarification: the difficulty is **diving sideways**, not a stated limitation on vertical jumping or getting up. Those other abilities remain unassessed, and pain has not been reported or ruled out. Chapter 3 needs a verified beginner progression for sideways diving and landing, with an alternative that does not require diving. Chapter 4 must not assume an explosive lateral dive is available or replace the sliding habit with one. The initial decision practice remains controlled footwork and standing collections; no dive mechanics are prescribed from this account alone.
+
+## 9. Chapter 2 drafted (2026-09-27)
+
+At the reader's request, `chapters/02-position-before-the-shot.md` now addresses the reported flank-to-middle finish. One working decision: adjust as the pass travels and prepare for the receiver's possible finish, adjusting again if they carry it. One practice in solo, pair and squad forms; the pair's inability to reproduce a separate passer and receiver is stated. One observation: prepared / travelling / unsure at shooting contact. No diving required, no fixed positioning distance, and no diagnosis of the unobserved goals. An original SVG shows the change in shooting angle. Research and drafting decisions are in `notes/chapter-02.md`. Status is drafted, not read or settled; chapter 3 is next.
