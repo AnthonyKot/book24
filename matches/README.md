@@ -1,0 +1,1 @@
+One file per match, `YYYY-MM-DD.md`. Score, opposition, then one line per goal conceded: minute, situation (distant shot / close finish / one-on-one / cross or corner / rebound / free attacker / other), what you decided, what you would decide now. Chapters ask for one extra observation each; add it as a line.
