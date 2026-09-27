@@ -15,6 +15,8 @@ Not published unless the author later says so.
 | 2026-09-27 | The author's own matches supply the questions as the book develops (`matches/`) | the brief |
 | 2026-09-27 | Sources: FA grassroots and FIFA Training Centre sessions (`sources/`), adapted, never copied; anything not in a source is marked as the book's own | book-repo pattern: checkable |
 | 2026-09-27 | Four context facts are open (format, experience and age, training conditions and injuries, the situations remembered from the defeat); nothing on training content is drafted until they are answered | the brief |
+| 2026-09-27 | Two separate learning goals: chapter 3 teaches sideways diving and landing through a beginner progression; chapter 4 teaches when to stay mobile or commit without assuming an explosive dive. The pair session in `notes/sessions/ch4-stay-or-go-pair.md` stays with footwork and standing collections. "Dive hands-first instead" is not the answer to the sliding habit | the author, after the two-match follow-up (§7) and the movement context (§8) |
+| 2026-09-27 | Drafting order after the pilot: chapter 4, then 2, then 3; the rest in register order | §7 priorities |
 
 ## 2. Reader
 
